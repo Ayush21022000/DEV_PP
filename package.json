@@ -1,0 +1,30 @@
+{
+  "name": "Dev_pp_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush21022000/DEV_PP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush21022000/DEV_PP/issues"
+  },
+  "homepage": "https://github.com/Ayush21022000/DEV_PP#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.6",
+    "console": "^0.7.2",
+    "nodemailer": "^6.6.1",
+    "puppeteer": "^9.1.1",
+    "request": "^2.88.2",
+    "s": "^1.0.0"
+  }
+}

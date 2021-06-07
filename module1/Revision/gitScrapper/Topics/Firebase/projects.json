@@ -1,0 +1,42 @@
+[
+    {
+        "projectName": "supabase",
+        "projectLink": "https://www.github.com/supabase/supabase"
+    },
+    {
+        "projectName": "functions-samples",
+        "projectLink": "https://www.github.com/firebase/functions-samples"
+    },
+    {
+        "projectName": "react-native-firebase",
+        "projectLink": "https://www.github.com/invertase/react-native-firebase"
+    },
+    {
+        "projectName": "quickstart-android",
+        "projectLink": "https://www.github.com/firebase/quickstart-android"
+    },
+    {
+        "projectName": "angularfire",
+        "projectLink": "https://www.github.com/angular/angularfire"
+    },
+    {
+        "projectName": "flutterfire",
+        "projectLink": "https://www.github.com/FirebaseExtended/flutterfire"
+    },
+    {
+        "projectName": "react-firebase-starter",
+        "projectLink": "https://www.github.com/kriasoft/react-firebase-starter"
+    },
+    {
+        "projectName": "FirebaseUI-Android",
+        "projectLink": "https://www.github.com/firebase/FirebaseUI-Android"
+    },
+    {
+        "projectName": "GmsCore",
+        "projectLink": "https://www.github.com/microg/GmsCore"
+    },
+    {
+        "projectName": "firebase-js-sdk",
+        "projectLink": "https://www.github.com/firebase/firebase-js-sdk"
+    }
+]
