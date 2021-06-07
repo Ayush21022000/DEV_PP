@@ -61,7 +61,7 @@ var transporter = nodemailer.createTransport({
 
 var mailOptions = {
   from: 'guyfromg@gmail.com',
-  to: 'sushant.beriwal@pepcoding.com, garg4476@gmail.com',
+  to: 'garg4476@gmail.com',
   subject: 'Sending Game List Using Using Automation',
   html: `<h1>Hi Fellow Gamer This Is The List Of All The Games That Are Available On the Steam Empowered Game Buying Site</h1>`
   ,attachments:[
