@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Muck",
+        "link": null,
+        "price": "₹ 219",
+        "genre": "Survival"
+    },
+    {
+        "title": "Mighty Goose",
+        "link": null,
+        "price": "₹ 476",
+        "genre": ", Crafting"
+    },
+    {
+        "title": "Explorers of the Abyss",
+        "link": null,
+        "price": "₹ 1,299",
+        "genre": ", Building"
+    },
+    {
+        "title": "Garbage",
+        "link": null,
+        "price": "₹ 1,297",
+        "genre": ", Roguelike"
+    },
+    {
+        "title": "Sniper Ghost Warrior Contracts 2",
+        "link": null,
+        "price": "₹ 1,140",
+        "genre": "Singleplayer"
+    },
+    {
+        "title": "Motorcycle Mechanic Simulator 2021: Prologue",
+        "link": null,
+        "price": "₹ 1,409",
+        "genre": ", Local Co-Op"
+    },
+    {
+        "title": "Until We Die",
+        "link": null,
+        "price": "₹ 512",
+        "genre": ", Multiplayer"
+    },
+    {
+        "title": "Slipways",
+        "link": null,
+        "price": "₹ 999",
+        "genre": ", Local Multiplayer"
+    },
+    {
+        "title": "Anima : The Reign of Darkness",
+        "link": null,
+        "price": "₹ 2,799",
+        "genre": "RPG"
+    },
+    {
+        "title": "Griftlands",
+        "link": null,
+        "price": "₹ 976",
+        "genre": ", Indie"
+    },
+    {
+        "title": "ARK: Survival Evolved",
+        "link": null,
+        "price": "₹ 3,999",
+        "genre": ", Anime"
+    },
+    {
+        "title": "GUILTY GEAR -STRIVE-",
+        "link": null,
+        "price": "₹ 1,799",
+        "genre": ", Sexual Content"
+    },
+    {
+        "title": "ARK: Ultimate Survivor Edition",
+        "link": null,
+        "price": "₹ 415",
+        "genre": "Simulation"
+    },
+    {
+        "title": "Going Medieval",
+        "link": null,
+        "price": "₹ 179",
+        "genre": ", Strategy"
+    },
+    {
+        "title": "CS:GO Prime Status Upgrade",
+        "link": null,
+        "price": "₹ 917",
+        "genre": ", Management"
+    },
+    {
+        "title": "Grand Theft Auto V: Premium Edition",
+        "link": null,
+        "price": "₹ 1,319",
+        "genre": ", Survival"
+    },
+    {
+        "title": "No Man's Sky",
+        "link": null,
+        "price": "₹ 1,124",
+        "genre": "Sniper"
+    },
+    {
+        "title": "Mass Effect™ Legendary Edition",
+        "link": null,
+        "price": "₹ 624",
+        "genre": ", FPS"
+    },
+    {
+        "title": "Assetto Corsa Ultimate Edition",
+        "link": null,
+        "price": "₹ 986",
+        "genre": ", Stealth"
+    },
+    {
+        "title": "The Last Spell",
+        "link": null,
+        "price": "₹ 624",
+        "genre": ", Shooter"
+    },
+    {
+        "title": "Wonhon: A Vengeful Spirit",
+        "link": null,
+        "price": "₹ 674",
+        "genre": "Casual"
+    },
+    {
+        "title": "Backbone",
+        "link": null,
+        "price": "₹ 174",
+        "genre": ", Simulation"
+    },
+    {
+        "title": "Car Mechanic Simulator VR",
+        "link": null,
+        "price": "₹ 340",
+        "genre": ", Sandbox"
+    },
+    {
+        "title": "Farmer's Life",
+        "link": null,
+        "price": "₹ 1,624",
+        "genre": ", Walking Simulator"
+    },
+    {
+        "title": "No More Heroes",
+        "link": null,
+        "price": "₹ 354",
+        "genre": "Strategy"
+    },
+    {
+        "title": "No More Heroes 2: Desperate Struggle",
+        "link": null,
+        "price": "₹ 299",
+        "genre": ", Side Scroller"
+    },
+    {
+        "title": "Hell Architect: Prologue",
+        "link": null,
+        "price": "₹ 344",
+        "genre": ", Survival"
+    },
+    {
+        "title": "[NINJA GAIDEN: Master Collection] NINJA GAIDEN 3: Razor's Edge",
+        "link": null,
+        "price": "₹ 299",
+        "genre": ", Action"
+    },
+    {
+        "title": "[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2",
+        "link": null,
+        "price": "₹ 1,949",
+        "genre": "Strategy"
+    },
+    {
+        "title": "[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ",
+        "link": null,
+        "price": "₹ 584",
+        "genre": ", Turn-Based Strategy"
+    },
+    {
+        "title": "ARK: Survival Evolved",
+        "link": null,
+        "price": "₹ 439",
+        "genre": ", Puzzle"
+    },
+    {
+        "title": "Total War: WARHAMMER II",
+        "link": null,
+        "price": "₹ 527",
+        "genre": ", Sandbox"
+    },
+    {
+        "title": "Battlefield V",
+        "link": null,
+        "price": "₹ 215",
+        "genre": "Hack and Slash"
+    },
+    {
+        "title": "Need for Speed™ Heat",
+        "link": null,
+        "price": "₹ 577",
+        "genre": ", Action RPG"
+    },
+    {
+        "title": "Battlefield 1 ™",
+        "link": null,
+        "price": "₹ 529",
+        "genre": ", Dungeon Crawler"
+    },
+    {
+        "title": "Borderlands 3",
+        "link": null,
+        "price": "₹ 2,999",
+        "genre": ", Dark Fantasy"
+    },
+    {
+        "title": "Battlefield 4™",
+        "link": null,
+        "price": "₹ 439",
+        "genre": "Card Battler"
+    },
+    {
+        "title": "Total War: WARHAMMER",
+        "link": null,
+        "price": "Free to Play",
+        "genre": ", Roguelite"
+    },
+    {
+        "title": "Warhammer: Vermintide 2",
+        "link": null,
+        "price": "₹ 529",
+        "genre": ", RPG"
+    },
+    {
+        "title": "Dying Light",
+        "link": null,
+        "price": "₹ 512",
+        "genre": ", Deckbuilding"
+    }
+]
